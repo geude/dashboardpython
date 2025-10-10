@@ -1,0 +1,25 @@
+# === Dashboard Python - Dependências ===
+
+# Interface interativa
+streamlit==1.39.0
+
+# Manipulação e análise de dados
+pandas==2.2.3
+numpy==1.26.4
+
+# Visualização de dados
+matplotlib==3.9.2
+plotly==5.24.1
+
+# Modelagem preditiva e estatística
+scikit-learn==1.5.2
+statsmodels==0.14.2
+
+# Suporte a datas e tempo
+python-dateutil==2.9.0.post0
+
+# Persistência e manipulação de arquivos locais
+openpyxl==3.1.5
+
+# Utilidades adicionais (opcional)
+seaborn==0.13.2
